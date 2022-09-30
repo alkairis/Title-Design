@@ -18,6 +18,7 @@
     text-align: center;
     color: #ffff;
     position: relative;
+    text-transform: uppercase;
 }
 
 .title h1{
